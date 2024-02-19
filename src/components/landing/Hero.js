@@ -43,12 +43,12 @@ const HeroSection = () => {
               User Info
             </a>
           </Link>
-          <Link href="./TideSafetyNet.apk" legacyBehavior>
+          {/* <Link href="./TideSafetyNet.apk" legacyBehavior>
             <a className="button w-75 m-auto mb-2">
               <BsDownload className="icon" />
               Download App
             </a>
-          </Link>
+          </Link> */}
 
           <Link href="#search" className="text-center" legacyBehavior>
             <a className="button w-75 m-auto mb-2">
